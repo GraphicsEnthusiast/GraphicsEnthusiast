@@ -1,18 +1,3 @@
-I'm an undergraduate student from HFUT, majoring in computer science and technology. I'm very interested in offline rendering and computer graphics.
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraphicsEnthusiast&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraphicsEnthusiast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/GraphicsEnthusiast">
-    
-  </a>
-  <a href="https://github.com/GraphicsEnthusiast">
-    
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GraphicsEnthusiast">
-    
-  </a>
-</p>
+Hi! I am an undergraduate student from HFUT, majoring in computer science and technology. I am very interested in offline rendering.
