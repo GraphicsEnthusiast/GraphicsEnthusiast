@@ -1,17 +1,18 @@
-# Hi! I'm GraphicsEnthusiast 👋
-
-I'm an undergraduate student from HFUT, majoring in computer science and technology. I'm very interested in offline rendering.
+I'm an undergraduate student from HFUT, majoring in computer science and technology. I'm very interested in offline rendering and computer graphics.
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/GraphicsEnthusiast">
+    
+  </a>
+  <a href="https://github.com/GraphicsEnthusiast">
+    
+  </a>
+</p>
 
-
-
-
-## 🛠️ Technologies & Tools
-- **Rendering**: OpenGL, Vulkan, Ray Tracing
-- **Languages**: C++, Python, GLSL/HLSL
-- **Tools**: Blender, Unity, Unreal Engine
-
-## 📫 Connect with me
-- GitHub: [GraphicsEnthusiast](https://github.com/GraphicsEnthusiast)
+<p align="center">
+  <a href="https://github.com/GraphicsEnthusiast">
+    
+  </a>
+</p>
