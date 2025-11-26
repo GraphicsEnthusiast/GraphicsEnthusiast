@@ -1,3 +1,17 @@
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraphicsEnthusiast&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraphicsEnthusiast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Hi! I'm GraphicsEnthusiast 👋
 
-Hi! I am an undergraduate student from HFUT, majoring in computer science and technology. I am very interested in offline rendering.
+I'm an undergraduate student from HFUT, majoring in computer science and technology. I'm very interested in offline rendering.
+
+## 📊 GitHub Stats
+
+
+
+
+
+## 🛠️ Technologies & Tools
+- **Rendering**: OpenGL, Vulkan, Ray Tracing
+- **Languages**: C++, Python, GLSL/HLSL
+- **Tools**: Blender, Unity, Unreal Engine
+
+## 📫 Connect with me
+- GitHub: [GraphicsEnthusiast](https://github.com/GraphicsEnthusiast)
