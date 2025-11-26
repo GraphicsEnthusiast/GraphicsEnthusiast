@@ -1,5 +1,15 @@
-(https://github-readme-stats.vercel.app/api?username=GraphicsEnthusiast&show_icons=true&theme=tokyonight)    
-(https://github-readme-stats.vercel.app/api/top-langs/?username=GraphicsEnthusiast&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+# Hi! I'm GraphicsEnthusiast 👋
 
-Hi! I am an undergraduate student from HFUT, majoring in computer science and technology. I am very interested in offline rendering.
+🎓 Computer Science & Technology Undergraduate @ HFUT  
+💻 Passionate about Offline Rendering & Computer Graphics
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/GraphicsEnthusiast">
+    
+  </a>
+  <a href="https://github.com/GraphicsEnthusiast">
+    
+  </a>
+</p>
